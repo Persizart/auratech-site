@@ -1,0 +1,1 @@
+// O Genkit será configurado aqui posteriormente.
