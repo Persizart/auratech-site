@@ -4,6 +4,7 @@ const nextConfig = {
   trailingSlash: true,
   skipTrailingSlashRedirect: true,
   distDir: 'out',
+  basePath: '/auratech-site', // <--- ADICIONE ESTA LINHA
   typescript: {
     ignoreBuildErrors: true,
   },
